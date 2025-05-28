@@ -1,0 +1,693 @@
+# 
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2021
+# Philip Larsen Donnelly, 2021
+# Thuy Nguyen <thuynguyen@hispvietnam.org>, 2022
+# Namwan Chanthavisouk, 2024
+# Saysamone Sibounma, 2024
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2023-02-27T14:55:39.217Z\n"
+"PO-Revision-Date: 2021-03-17 23:49+0000\n"
+"Last-Translator: Saysamone Sibounma, 2024\n"
+"Language-Team: Lao (https://app.transifex.com/hisp-uio/teams/100509/lo/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Never"
+msgstr "Never"
+
+msgid "Invalid date"
+msgstr "ວັນທີ່ບໍ່ຖືກຕ້ອງ"
+
+msgid "Web API"
+msgstr "API ເວັບ"
+
+msgid "Browse it here"
+msgstr "ຄົ້ນຫາເບີ່ງໄດ້ທີ່ນີ້"
+
+msgid "Current user"
+msgstr "ຜູ້ໃຊ້ປະຈຸບັນ"
+
+msgid "Version"
+msgstr "ລູ້ນ"
+
+msgid "Build revision"
+msgstr "ສ້າງການທົບທວນຄືນ"
+
+msgid "Build date"
+msgstr "ວັນທີ່ສ້າງ"
+
+msgid "Jasper reports version"
+msgstr "ລາຍງານ Jasper ເວິຊັ່ນ"
+
+msgid "User agent"
+msgstr "ຕົວແທນຜູ້ໃຊ້"
+
+msgid "Server date"
+msgstr "ວັນທີຕົວບໍລິການ"
+
+msgid "Last analytics table generation"
+msgstr "ການສ້າງຕາຕະລາງວິເຄາະຄັ້ງລ່າສຸດ"
+
+msgid "Time since last analytics table generation"
+msgstr "ເວລາຕ້ັງແຕ່ການສ້າງຕາຕະລາງວິເຄາະຄັ້ງສຸດທ້າຍ"
+
+msgid "Last analytics table runtime"
+msgstr "ຕາຕະລາງວິເຄາະປະມວນຜົນຄັ້ງລ່າສຸດ"
+
+msgid "Last continuous analytics table update"
+msgstr "ອັບເດດຕາຕະລາງວິເຄາະຢ່າງຕໍ່ເນື່ອງຄັ້ງລ່າສຸດ"
+
+msgid "Time since last continuous analytics table update"
+msgstr "ເວລາຕັ້ງແຕ່ການອັບເດດຕາຕະລາງວິເຄາະຢ່າງຕໍ່ເນື່ອງຄັ້ງລ່າສຸດ"
+
+msgid "Last continuous analytics table runtime"
+msgstr "ປະມວນຜົນຕາຕະລາງວິເຄາະຢ່າງຕໍ່ເນື່ອງຄັ້ງລ່າສຸດ"
+
+msgid "Environment variable"
+msgstr "ຕົວແປສະພາບແວດລ້ອມ"
+
+msgid "System ID"
+msgstr "ລະຫັດລະບົບ"
+
+msgid "Last monitoring success"
+msgstr "ການກວດສອບທີ່ສຳເລັດຄັ້ງລ່າສຸດ"
+
+msgid "External configuration directory"
+msgstr "ໂຄງສ້າງການຈັດລຽງຟາຍກຳນົດຄ່າພາຍນອກ"
+
+msgid "File store provider"
+msgstr "ຜູ້ຈັດເກັບຟາຍ"
+
+msgid "Node ID"
+msgstr "Node ID"
+
+msgid "Cache provider"
+msgstr "ຜູ້ລ້າງຂໍ້ມູນ"
+
+msgid "Read replica count"
+msgstr "ອ່ານຈຳນວນການຈຳລອງ"
+
+msgid "Java opts"
+msgstr "Java Opts"
+
+msgid "Java version"
+msgstr "ຕາມລະບົບຂອງ Java"
+
+msgid "Java vendor"
+msgstr "ຜູ້ຈຳໜ່າຍ JAVA"
+
+msgid "OS name"
+msgstr "ຊື່ຂອງລະບົບບໍລິຫານຈັດການ"
+
+msgid "OS architecture"
+msgstr "ຂະໜາດຂອງລະບົບ"
+
+msgid "OS version"
+msgstr "ລຸ້ນຂອງລະບົບ"
+
+msgid "Memory info"
+msgstr "ຂໍ້ມູນໜ່ວຍຄວາມຈຳ"
+
+msgid "CPU cores"
+msgstr "ແກນ CPU"
+
+msgid "Calendar"
+msgstr "ປະຕິທິນ"
+
+msgid "Name"
+msgstr "ຊື່"
+
+msgid "User"
+msgstr "User"
+
+msgid "Spatial support"
+msgstr "ສະໜັບສະໜູນທາງດ້ານຟື້ນທີ່"
+
+msgid "System info"
+msgstr "ຂໍ້ມູນລະບົບ"
+
+msgid "Database"
+msgstr "ຖານຂໍ້ມູນ"
+
+msgid "Edit account settings"
+msgstr "ແກ້ໄຂການຕັ້ງຄ່າບັນຊີຜູ້ໃຊ້"
+
+msgid "No changes have been made"
+msgstr "ບໍ່ໄດ້ບັນທຶກການປ່ຽນແປງ"
+
+msgid "The form is currently being validated. Please try again."
+msgstr "ກະລຸນາລອງອີກຄັ້ງ"
+
+msgid "The form contains errors. Please fix the errors and try again."
+msgstr "ເກິດຂໍຜິດພາດ"
+
+msgid "The entered values do not match. Please re-enter."
+msgstr "ລະຫັດຜ່ານບໍ່ກົງກັນ"
+
+msgid "Please provide your old password"
+msgstr "ກະລຸນາລະບຸລະຫັດຜ່ານເກົ່າຂອງທ່ານ"
+
+msgid "Username"
+msgstr "ຊື່ຜູ້ໃຊ້"
+
+msgid "Old password"
+msgstr "ລະຫັດເກົ່າ"
+
+msgid "This field can't be left blank"
+msgstr "ຫ້ອງນີ້ບໍ່ສາມາດປະຫວ່າງໄດ້"
+
+msgid "New password"
+msgstr "ລະຫັດໃໝ່"
+
+msgid ""
+"Password should be at least 8 characters with at least 1 digit, 1 uppercase "
+"letter and 1 special character"
+msgstr ""
+"ລະຫັດຜ່ານຄວນມີຄວາມຍາວຢ່າງໜ້ອຍ 8 ຕົວອັກສອນທີ່ມີຢ່າງໜ້ອຍ 1 ຕົວເລກ, 1 "
+"ຕົວພິມໃຫຍ່ ແລະ 1 ສັນຍາລັກພິເສດ"
+
+msgid "Repeat new password"
+msgstr "ຢືນຢັນລະຫັດໃໝ່ອີກຄັ້ງ"
+
+msgid "Setup 2-Factor"
+msgstr "ການຕັ້ງຄ່າ 2-ຊັ້ນ"
+
+msgid "Update password"
+msgstr "ອັບເດດລະຫັດຜ່ານ"
+
+msgid ""
+"This account is linked to an OpenID Connect identity. Visit the Open ID "
+"Connect provider to manage this account's settings."
+msgstr ""
+"ບັນຊີນີ້ເຊື່ອມຕໍ່ກັບຂໍ້ມູນປະຈຳຕົວ OpenID Connect. ເຂົ້າຫາຜູ້ໃຫ້ບໍລິການ Open "
+"ID Connect ເພື່ອຈັດການການຕັ້ງຄ່າຂອງບັນຊີນີ້."
+
+msgid "Password changed successfully"
+msgstr "ປ່ຽນລະຫັດຜ່ານສຳເລັດແລ້ວ"
+
+msgid "You need to login again to continue using the application."
+msgstr "ທ່ານຈະຕ້ອງເຂົ້າສູ່ລະບົບອີກຄັ້ງເພື່ອເຂົ້າໃຊ້ງານແອ໋ບພິເຄຊັ່ນຕໍ່ໄປ"
+
+msgid "Login"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Failed to update password"
+msgstr "ອັບເດດລະຫັດຜ່ານຫຼົ້ມເຫຼວ"
+
+msgid "Two-factor Authentication"
+msgstr "ກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນ"
+
+msgid "Turn off two-factor authentication"
+msgstr "ປິດໃຊ້ງານການກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນ"
+
+msgid "Open your authenticator app."
+msgstr "ເປິດແອ໋ບກວດສອບຄວາມຖືກຕ້ອງຂອງທ່ານ"
+
+msgid ""
+"Now, enter the authentication code below and click the \"Turn off\" button."
+msgstr "ຕອນນີ້ໃຫ້ປ້ອນລະຫັດຢືນຢັນດ້ານລຸ່ມ ແລະ ກົດໃສ່ປຸ່ມ \"ປິດ\""
+
+msgid "Remove two-factor account"
+msgstr "ລົບບັນຊີກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນ"
+
+msgid ""
+"Two-factor authentication is now turned off. It is recommended to remove the"
+" account from your authenticator app now to prevent any future issues re-"
+"enabling two-factor authentication."
+msgstr ""
+"ການກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນຖຶກປິດຢູ່ "
+"ຂໍແນະນຳໃຫ້ລົບບັນຊີອອກຈາກແອ໋ບກວດສອບຄວາມຖຶກຕ້ອງທັນທີເພື່ອປ້ອງກັນບັນຫາທີ່ຈະເກີດຂື້ນຈາກການເປິດໃຊ້ງານການກວດສອບແບບ"
+" 2 ຂັ້ນຕອນອີກຄັ້ງ"
+
+msgid "Play store"
+msgstr "Play store"
+
+msgid "App store"
+msgstr "ຮ້ານຄ້າແອ໋ບ"
+
+msgid "Turn on two-factor authentication"
+msgstr "ເປິດໃຊ້ງານການກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນ"
+
+msgid ""
+"Make sure you have an authenticator app installed on your device. We "
+"recommend Google Authenticator"
+msgstr ""
+"ກວດສອບໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ຕິດຕັ້ງແອ໋ບໃນອຸປະກອນຂອງທ່ານແລ້ວ ເຮົາຂໍແນະນຳ "
+"ຕົວກວດສອບຄວາມຖືກຕ້ອງຂອງ google"
+
+msgid ""
+"Now, enter the code from your authenticator app below and click the \"Turn "
+"on\" button."
+msgstr "ຕອນນີ້ໃຫ້ປ້ອນລະຫັດຢືນຢັນດ້ານລຸ່ມ ແລະ ກົດໃສ່ປຸ່ມ \"ເປິດ\""
+
+msgid "Already set up two-factor authentication before?"
+msgstr "ເຄີຍຕັ້ງຄ່າການຢືນຢັນຕົວຕົນແບບ 2 ຂັ້ນຕອນມາກ່ອນແລ້ວຫຼືບໍ?"
+
+msgid ""
+"If you have set up two-factor authentication for this account before, you "
+"need to remove that entry from your authenticator app before setting it up "
+"again."
+msgstr ""
+"ຖ້າທ່ານໄດ້ຕັ້ງການກວດສອບຄວາມຖືກຕ້ອງສໍາລັບບັນຊີນີ້ມາກ່ອນ, "
+"ທ່ານຈໍາເປັນຕ້ອງເອົາລາຍການນັ້ນອອກຈາກແອັບ "
+"ກວດສອບຄວາມຖຶກຕ້ອງຂອງທ່ານກ່ອນທີ່ຈະຕັ້ງຄ່າມັນອີກເທື່ອຫນຶ່ງ."
+
+msgid ""
+"Two-factor authentication protects your account with an extra layer of "
+"security. With two-factor authentication turned on, you will need to enter "
+"an authentication code from your device every time you log in."
+msgstr ""
+"ການຢືນຢັນຕົວຕົນແບບສອງຂັ້ນຕອນຈະປົກປ້ອງບັນຊີຂອງທ່ານ ດ້ວຍຂັ້ນຄວາມປອດໄພພິເສດ. "
+"ເມື່ອເປິດໃຊ້ງານການຢືນຢັນຕົວຕົນແບບສອງຂັ້ນຕອນ "
+"ທ່ານຈະຕ້ອງປ້ອນລະຫັດຢືນຢັນຕົວຕົນຈາກອຸປະກອນຂອງທ່ານທຸກຄັ້ງເມື່ອທ່ານເຂົ້າສູ່ລະບົບ"
+
+msgid "Two-factor authentication is on."
+msgstr "ກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນເປີດຢູ່"
+
+msgid "Two-factor authentication is off."
+msgstr "ກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນປິດຢູ່"
+
+msgid "Could not update two-factor authentication"
+msgstr "ບໍ່ສາມາດອັບເດດການກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນໄດ້"
+
+msgid ""
+"This code does not look right. Enter the six digit code from your "
+"authentication app."
+msgstr "ລະຫັດນີ້ບໍ່ຖືກຕ້ອງ. ໃສ່ລະຫັດຫົກຕົວເລກຈາກແອັບຢືນຢັນຕົວຕົນຂອງທ່ານ."
+
+msgid "Six digit authentication code"
+msgstr "ລະຫັດຢືນຢັນຕົວຕົນ 6 ຕົວ"
+
+msgid "Could not enable 2 Factor Authentication"
+msgstr "ບໍ່ສາມາດເປິດໃຊ້ການການກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນໄດ້"
+
+msgid "Two factor authentication was enabled successfully"
+msgstr "ເປິດໃຊ້ງານການກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນສຳເລັດແລ້ວ"
+
+msgid "Could not disable two factor authentication"
+msgstr "ບໍ່ສາມາດປິດໃຊ້ງານການກວດສອບຄວາມຖຶກຕ້ອງແບບ 2 ຂັ້ນໄດ້"
+
+msgid "Two factor authentication was disabled successfully"
+msgstr "ປິດໃຊ້ງານການກວດສອບຄວາມຖຶກຕ້ອງແບບ 2 ຂັ້ນສຳເລັດແລ້ວ"
+
+msgid "Failed to upload profile picture"
+msgstr "ບໍ່ສາມາດອັບໂຫຼດຮູບໂປຣຟາຍໄດ້"
+
+msgid "Profile picture"
+msgstr "ຮູບໂປຣຟາຍ"
+
+msgid "No profile picture available"
+msgstr "ບໍ່ມີຮູບໂປຣຟາຍ"
+
+msgid "Select profile picture"
+msgstr "ເລືອກຮູບໂປຣຟາຍ"
+
+msgid "Remove profile picture"
+msgstr "ລົບຮູບໂປຣຟາຍ"
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "This field should be a URL"
+msgstr "ຊ່ອງນີ້ຄວນເປັນ URL"
+
+msgid "This field should contain a list of URLs"
+msgstr "ຊ່ອງນີ້ຄວນມີລາຍການ URL"
+
+msgid "This field should be a number"
+msgstr "ຊ່ອງນີ້ຄວນມີຕົວເລກ"
+
+msgid "This field should be a positive number"
+msgstr "ຊ່ອງນີ້ຄວນເປັນຈຳນວນບວກ"
+
+msgid "This field should be an email"
+msgstr "ຊ່ອງນີ້ຄວນເປັນອີເມວ"
+
+msgid "Please enter a valid international phone number (+0123456789)"
+msgstr "ກະລຸນາໃສ່ເບີໂທລະສັບຕ່າງປະເທດໃຫ້ຖືກຕ້ອງ (+0123456789)"
+
+msgid "Yes"
+msgstr "ແມ່ນ"
+
+msgid "No"
+msgstr "ບໍ່ແມນ"
+
+msgid "No value"
+msgstr "ບໍ່ມີຂໍ້ມູນ"
+
+msgid "Use system default"
+msgstr "ໃຊ້ການຕັ້ງຄ່າຂອງລະບົບ"
+
+msgid "No options"
+msgstr "ບໍ່ມີຕົວເລືອກ"
+
+msgid "System default"
+msgstr "ໂຫຼດການຕັ້ງຄ່າດັ່ງເດີມ"
+
+msgid "User profile"
+msgstr "ໂປຣຟາຍຜູ້ໃຊ້"
+
+msgid "User settings"
+msgstr "ການຕັ້ງຄ່າສໍາລັບຜູ້ຊົມໃຊ້"
+
+msgid "Account settings"
+msgstr "ການຕັ້ງຄ່າບັນຊີຜູ້ໃຊ້"
+
+msgid "Two factor authentication"
+msgstr "ກວດສອບຄວາມຖືກຕ້ອງແບບ 2 ຂັ້ນ"
+
+msgid "Full profile"
+msgstr "ໂປຣຟາຍເຕັມ"
+
+msgid "Personal access tokens"
+msgstr "ໂທເຄັນການເຂົ້າເຖີງສ່ວນບຸກຄົນ"
+
+msgid "About DHIS2"
+msgstr "ກ່ຽວກັບ DHIS2"
+
+msgid "Manage personal access tokens"
+msgstr "ຈັດການ tokens ການເຂົ້າເຖີງສ່ວນບຸກຄົນ"
+
+msgid "Generate new token"
+msgstr "ສ້າງ token ໃໝ່"
+
+msgid "Error loading personal access tokens"
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການໂຫຼດ Token ການເຂົ້າເຖີງສ່ວນບຸກຄົນ"
+
+msgid "You don't have any active personal access tokens"
+msgstr "ທ່ານບໍ່ມີ token ການເຂົ້າເຖີງສ່ວນບຸກຄົນທີ່ໃຊ້ງານຢູ່"
+
+msgid "You'll only be shown your token once"
+msgstr "ທ່ານຈະເຫັນ token ຂອງທ່ານພຽງຄັ້ງດຽວເທົ່ານັ້ນ"
+
+msgid ""
+"Make sure to copy your personal access token now. You won't be able to see "
+"it again"
+msgstr ""
+"ຢ່າລືມສຳເນົາ  token ເຂົ້າເຖິງສ່ວນບຸກຄົນຂອງທ່ານທັນທີ "
+"ທ່ານຈະບໍ່ສາມາດເຫັນມັນໄດ້ອີກ"
+
+msgid "Invalid IP address '{{- ipAddress}}'"
+msgstr "ທີ່ຢູ່ IP ບໍ່ຖືກຕ້ອງ{{- ipAddress}}"
+
+msgid "Allowed IP addresses"
+msgstr "ອານຸຍາດທີ່ຢູ່ IP"
+
+msgid "List one IP address per line."
+msgstr "ບອກທີ່ຢູ່ IP ຕໍ່ແຖວ."
+
+msgid "Allowed HTTP methods"
+msgstr "ອານຸຍາດວິທີການ HTTP "
+
+msgid "GET"
+msgstr "GET"
+
+msgid "POST"
+msgstr "POST"
+
+msgid "PUT"
+msgstr "PUT"
+
+msgid "PATCH"
+msgstr "PATCH"
+
+msgid "DELETE"
+msgstr "ລົບ"
+
+msgid "Only choose the HTTP methods this token needs to allow."
+msgstr "ເລືອກສະເພາະວິທີການ HTTP tokenນີ້ຕ້ອງການອະນຸຍາດໃຫ້ເທົ່ານັ້ນ."
+
+msgid "Invalid referrer '{{- referrer}}'"
+msgstr "ຜູ້ອ້າງອີງບໍ່ຖືກຕ້ອງ {{- referrer}}"
+
+msgid "Allowed referrers"
+msgstr "ຜູ້ອ້າງອີງທີ່ໄດ້ຮັບອານຸຍາດ"
+
+msgid "List one referrer per line."
+msgstr "ລາຍຊື່ຜູ້ອ້າງອີງຕໍ່ແຖວ"
+
+msgid "Error fetching your authorities"
+msgstr "ເກີດຄວາມຜິດພາດໃນການດຶງຂໍ້ມູນເຈົ້າໜ້າທີ່ຂອງທ່ານ"
+
+msgid "Retry loading authorities"
+msgstr "ລອງໂຫຼດຜູ້ໄດ້ຮັບອານຸຍາດ"
+
+msgid "This token will have the following authorities"
+msgstr "Token ນີ້ຈະໄດ້ຮັບອານຸຍາດດັ່ງຕໍ່ໄປນີ້"
+
+msgid ""
+"Important: this is not a security feature. The referrer header can easily be"
+" spoofed. This setting is intended to discourage unauthorised third-party "
+"developers from connecting to public access instances."
+msgstr ""
+"ສຳຄັນ: ນີ້ບໍ່ແມ່ນຄຸນລັກສະນະດ້ານຄວາມປອດໄພ ຜູ້ອ້າງອີງສາມາດປອມແປງໄດ້ງ່າຍ "
+"ການຕັ້ງຄ່ານີ້ມີວັດຖຸປະສົງເພື່ອປ້ອງກັນ "
+"ບໍ່ໃຫ້ຜູ້ພັດທະນາບຸກຄົນທີ່ສາມທີ່ບໍ່ໄດ້ຮັບອານຸຍາດເຊື່ອມຕໍ່ກັບທາງເວັບໄຊ້ສາທາລະນະ"
+
+msgid "Choose the context where this token will be used."
+msgstr "ເລືອກສະພາບການທີ່ token ນີ້ຈະຖືກໃຊ້."
+
+msgid "Server/script context"
+msgstr "ສະພາບການເຄື່ອງຄອມພິວເຕີໜ່ວຍແມ່/ສະຄິຼບ"
+
+msgid "Used for integrations and scripts that won't be accessed by a browser."
+msgstr ""
+"ໃຊ້ສຳລັບການບູລະນະການ ແລະ ສະຄິບທີ່ເຄື່ອງຄອມພິວເຕີໜ່ວຍແມ່ບໍ່ສາມາດເຂົ້າເຖີງໄດ້"
+
+msgid "Browser context"
+msgstr "ສະພາບການຂອງບາວເຊີ"
+
+msgid ""
+"Used for applications, like public portals, that will be accessed with a web"
+" browser."
+msgstr ""
+"ໃຊ້ສຳລັບແອ໋ບພິເຄຊັ່ນ ເຊັ່ນ: ເວັບສາທາລະນະ ທີ່ສາມາດເຂົ້າເຖີງໄດ້ຜ່ານເວັບບາວເຊີ"
+
+msgid "Token expiration date must be in the future"
+msgstr "ວັຍໝົດອາຍຸຂອງ token ຈະຕ້ອງເປັນອານາຄົດ"
+
+msgid "7 days"
+msgstr "7 ມື້"
+
+msgid "30 days"
+msgstr "30 ມື້"
+
+msgid "60 days"
+msgstr "60 ມື້"
+
+msgid "90 days"
+msgstr "90 ມື້"
+
+msgid "Custom..."
+msgstr "ກຳນົດເອງ..."
+
+msgid "The token will expire on {{- tokenExpirationDate}}."
+msgstr "Token ຈະໝົດອາຍຸໃນວັນທີ່ {{- tokenExpirationDate}}"
+
+msgid "Expiration (required)"
+msgstr "ວັນໝົດອາຍຸ (ຈຳເປັນ)"
+
+msgid "Custom expiration date (required)"
+msgstr "ກຳນົດວັນໝົດອາຍຸເອງ (ຈຳເປັນ)"
+
+msgid ""
+"Personal access tokens should only be used in a browser context for public "
+"access instances. For private instances, tokens should be treated like "
+"passwords and be kept private — requests should instead be routed through a "
+"proxy."
+msgstr ""
+"Token "
+"ການເຂົ້າເຖິງສ່ວນຕົວຄວນໃຊ້ສະເພາະບຣາວເຊີສຳລັບຕົວຢ່າງການເຂົ້າເຖິງສາທາລະນະເທົ່ານັ້ນ."
+" ສໍາ​ລັບ​ເວັບໄຊ້​ສ່ວນ​ຕົວ, tokens "
+"ຄວນ​ໄດ້​ຮັບ​ການ​ປະ​ຕິ​ບັດ​ຄື​ລະ​ຫັດ​ຜ່ານ​ແລະ​ໄດ້​ຮັບ​ການ​ເກັບ​ຮັກ​ສາ​ໄວ້​ເປັນ​ສ່ວນ​ຕົວ"
+" — ການ​ຮ້ອງ​ຂໍ​ຄວນ​ສົ່ງຜ່ານ proxy ແທນ"
+
+msgid "Token details"
+msgstr "ລາຍລະອຽດ Token"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid ""
+"Important: IP address validation relies on the X-Forwarded-For header, which"
+" can be spoofed. For security, make sure a load balancer or reverse proxy "
+"overwrites this header."
+msgstr ""
+"ສໍາຄັນ: ການກວດສອບທີ່ຢູ່ IP ແມ່ນຂຶ້ນກັບ X-Forwarded-For header, "
+"ເຊິ່ງອາດປອມແປງໄດ້. ເພື່ອຄວາມປອດໄພ, ໃຫ້ແນ່ໃຈວ່າຕົວດຸ່ນດ່ຽງການໂຫຼດ ຫຼືພຣັອກຊີ "
+"ແບບຢ້ອນກັບຈະຂຽນທັບສ່ວນຫົວນີ້."
+
+msgid "Are you sure you want to delete this token?"
+msgstr "ທ່ານແນ່ໃນບໍວ່າຕ້ອງການລົບ Token ນີ້"
+
+msgid "Error deleting token"
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການລົບ Token"
+
+msgid ""
+"Any application or script using this token will no longer be able to access "
+"this instance's API. You cannot undo this action."
+msgstr ""
+"ແອ໋ບພລິເຄຊັນ ຫຼືສະຄຣິບໃດນຶ່ງທີ່ໃຊ້  token ນີ້ຈະບໍ່ສາມາດເຂົ້າເຖິງ API "
+"ຂອງເວັບໄຊ້ນີ້ໄດ້ອີກຕໍ່ໄປ. ທ່ານບໍ່ສາມາດຍົກເລີກການດຳເນີນການນີ້ໄດ້."
+
+msgid "Delete token"
+msgstr "ລົບ token "
+
+msgid "Expires"
+msgstr "ໝົດອາຍຸ"
+
+msgid "Created"
+msgstr "ສ້າງແລ້ວ"
+
+msgid "Copied token to clipboard"
+msgstr "ສຳເນົາ token ໄປຫາ ຄິບບອດແລ້ວ"
+
+msgid "Newly created token"
+msgstr "Token ທີ່ສ້າງຂື້ນໃໝ່"
+
+msgid "Copy to clipboard"
+msgstr "ສຳເນົາໄປຫາ ຄິບບອດ"
+
+msgid "Delete"
+msgstr "ລົບ"
+
+msgid "Edit user profile"
+msgstr "ແກ້ໄຂຂໍ້ມູນຂອງຜູ້ນຳໃຊ້"
+
+msgid "User profile updated"
+msgstr "ໂປຟາຍຜູ້ໃຊ້ໄດ້ຖືກອັບເດດ"
+
+msgid "Failed to update user profile"
+msgstr "ບໍ່ສາມາດອັບເດດຂໍ້ມູນຜູ້ໃຊ້ໄດ້"
+
+msgid "Edit user settings"
+msgstr "ແກ້ໄຂການຕັ້ງຄ່າຂອງຜູ້ໃຊ່"
+
+msgid "Settings updated"
+msgstr "ການຕັ້ງຄ່ານີ້ໄດ້ຖືກບັນທຶກ"
+
+msgid "Failed to update settings"
+msgstr "ບໍ່ສາມາດບັນທຶກການຕັ້ງຄ່ານີ້ໄດ້"
+
+msgid "First name"
+msgstr "ນາມສະກຸນ"
+
+msgid "Surname"
+msgstr "ຊື່"
+
+msgid "Gender"
+msgstr "ເພດ"
+
+msgid "Male"
+msgstr "~ເພດຊາຍ"
+
+msgid "Female"
+msgstr "ຍິງ"
+
+msgid "Other"
+msgstr "ອື່ນໆ"
+
+msgid "E-mail"
+msgstr "ອີເມວ"
+
+msgid "Mobile phone number"
+msgstr "ໝາຍເລກໂທລະສັບ"
+
+msgid "Introduction"
+msgstr "ລາຍລະອຽດອື່ນໆ"
+
+msgid "Job title"
+msgstr "ອາຊີບ"
+
+msgid "User roles"
+msgstr "ຕຳແໜ່ງຮັບພິດຊອບໃນລະບົບ"
+
+msgid "User org units"
+msgstr "ສະຖານທີ່ຮັບພິດຊອບ"
+
+msgid "Birthday"
+msgstr "ວັນເດືອນປີເກີດ"
+
+msgid "Nationality"
+msgstr "ສັນຊາດ"
+
+msgid "Employer"
+msgstr "ຕຳແໜ່ງ"
+
+msgid "Education"
+msgstr "ລະດັບການສືກສາ"
+
+msgid "Interests"
+msgstr "ສິ່ງທີ່ສົນໃຈ"
+
+msgid "Languages"
+msgstr "ພາສາ"
+
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Account editor"
+msgstr "ຜູ້ແກ້ໄຂບັນຊີຜູ້ໃຊ້"
+
+msgid "Interface language"
+msgstr "ພາສາສະແດງຜົນ"
+
+msgid "Database language"
+msgstr "ພາສາຂໍ້ມູນໃນລະບົບ"
+
+msgid "Style"
+msgstr "ລັກສະນະ"
+
+msgid "Property to display in analysis modules"
+msgstr "ສື່ງທີ່ສາມາດນໍາສະເໜີ ໃນໂມດູນຂອງການວິໄຈ"
+
+msgid "Short name"
+msgstr "ຊື່ສັ້ນ"
+
+msgid "Enable message email notifications"
+msgstr "ອະນຸຍາດໃຫ້ລະບົບສົ່ງອິເມວແຈ້ງເຕືອນໄດ້"
+
+msgid "Enable message SMS notifications"
+msgstr "ອະນຸຍາດໃຫ້ລະບົບສົ່ງຂໍ້ຄວາມແຈ້ງເຕືອນໄດ້"
+
+msgid "View full profile"
+msgstr "ສະແດງໂປຟາຍ"
+
+msgctxt "HTTP method"
+msgid "GET"
+msgstr "GET"
+
+msgctxt "HTTP method"
+msgid "POST"
+msgstr "POST"
+
+msgctxt "HTTP method"
+msgid "PUT"
+msgstr "PUT"
+
+msgctxt "HTTP method"
+msgid "PATCH"
+msgstr "PATCH"
+
+msgctxt "HTTP method"
+msgid "DELETE"
+msgstr "ລົບ"

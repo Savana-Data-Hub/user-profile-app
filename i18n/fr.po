@@ -1,0 +1,697 @@
+# 
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2021
+# Karoline Tufte Lien <karoline@dhis2.org>, 2021
+# Yayra Gomado <ygomado@hispwca.org>, 2021
+# Edem Kossi <ekossi@hispwca.org>, 2021
+# Gabriela Rodriguez <grodriguezcoronado@gmail.com>, 2021
+# Yao Selom SAKA (HISP WCA) <ysaka@hispwca.org>, 2022
+# tx_e2f_fr r25 <tx_e2f_fr_r25@ate2f.com>, 2023
+# Philip Larsen Donnelly, 2024
+# Elise Desailly, 2024
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2023-02-27T14:55:39.217Z\n"
+"PO-Revision-Date: 2021-03-17 23:49+0000\n"
+"Last-Translator: Elise Desailly, 2024\n"
+"Language-Team: French (https://app.transifex.com/hisp-uio/teams/100509/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "Invalid date"
+msgstr "Date invalide"
+
+msgid "Web API"
+msgstr "API Web"
+
+msgid "Browse it here"
+msgstr "Parcourir ici"
+
+msgid "Current user"
+msgstr "Utilisateur actuel"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Build revision"
+msgstr "Version"
+
+msgid "Build date"
+msgstr "Date de création"
+
+msgid "Jasper reports version"
+msgstr "Version du rapport Jasper"
+
+msgid "User agent"
+msgstr "Agent utilisateur"
+
+msgid "Server date"
+msgstr "Date du serveur"
+
+msgid "Last analytics table generation"
+msgstr "Dernière génération des tables analytiques"
+
+msgid "Time since last analytics table generation"
+msgstr "Durée depuis dernière création des tables analytiques"
+
+msgid "Last analytics table runtime"
+msgstr "Dernier runtime tables analytiques"
+
+msgid "Last continuous analytics table update"
+msgstr "Dernière mise à jour du table d'analytique continue"
+
+msgid "Time since last continuous analytics table update"
+msgstr ""
+"Temps écoulé depuis la dernière mise à jour de la table d'analytique "
+"continue"
+
+msgid "Last continuous analytics table runtime"
+msgstr "Dernière exécution de la table d'analytique continue"
+
+msgid "Environment variable"
+msgstr "Variable d'environnement"
+
+msgid "System ID"
+msgstr "ID du système"
+
+msgid "Last monitoring success"
+msgstr "Dernier succès de surveillance"
+
+msgid "External configuration directory"
+msgstr "Répertoire de configuration externe"
+
+msgid "File store provider"
+msgstr "Fournisseur du magasin de fichiers"
+
+msgid "Node ID"
+msgstr "ID du nœud"
+
+msgid "Cache provider"
+msgstr "Fournisseur de cache"
+
+msgid "Read replica count"
+msgstr "Lire le nombre de répétitions"
+
+msgid "Java opts"
+msgstr "Options Java"
+
+msgid "Java version"
+msgstr "Version de Java"
+
+msgid "Java vendor"
+msgstr "Fournisseur Java"
+
+msgid "OS name"
+msgstr "Nom de l'OS"
+
+msgid "OS architecture"
+msgstr "architecture de l'OS"
+
+msgid "OS version"
+msgstr "Version de l'OS"
+
+msgid "Memory info"
+msgstr "Infos mémoire"
+
+msgid "CPU cores"
+msgstr "noyaux CPU"
+
+msgid "Calendar"
+msgstr "Calendar"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Spatial support"
+msgstr "Soutien géographique"
+
+msgid "System info"
+msgstr "Infos système"
+
+msgid "Database"
+msgstr "La base de données"
+
+msgid "Edit account settings"
+msgstr "Modifier paramètres de compte"
+
+msgid "No changes have been made"
+msgstr "Aucune modification effectuée"
+
+msgid "The form is currently being validated. Please try again."
+msgstr "Le formulaire est en cours de validation. Veuillez ressayer."
+
+msgid "The form contains errors. Please fix the errors and try again."
+msgstr ""
+"Le formulaire contient des erreurs. Veuillez corriger les erreurs puis "
+"ressayer."
+
+msgid "The entered values do not match. Please re-enter."
+msgstr "Les valeurs saisies ne correspondent pas. Veuillez resaisir."
+
+msgid "Please provide your old password"
+msgstr "Veuillez indiquer votre ancien mot de passe"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Old password"
+msgstr "Ancien mot de passe"
+
+msgid "This field can't be left blank"
+msgstr "Ce champ ne peut rester vide"
+
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgid ""
+"Password should be at least 8 characters with at least 1 digit, 1 uppercase "
+"letter and 1 special character"
+msgstr ""
+"Le mot de passe devrait contenir au moins 8 caractères dont au moins un "
+"chiffre et une lettre majuscule"
+
+msgid "Repeat new password"
+msgstr "Répéter le mot de passe"
+
+msgid "Setup 2-Factor"
+msgstr "Configurer la vérification à 2 facteurs"
+
+msgid "Update password"
+msgstr "Mettre à jour un mot de passe"
+
+msgid ""
+"This account is linked to an OpenID Connect identity. Visit the Open ID "
+"Connect provider to manage this account's settings."
+msgstr ""
+"Ce compte est lié à une identité OpenID Connect. Consultez le fournisseur "
+"Open ID Connect pour gérer les paramètres de ce compte."
+
+msgid "Password changed successfully"
+msgstr "Mot de passe modifié avec succès"
+
+msgid "You need to login again to continue using the application."
+msgstr ""
+"Vous devez de nouveau vous connecter afin de poursuivre l'utilisation de "
+"l'application."
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Failed to update password"
+msgstr "Impossible de mettre à jour le mot de passe"
+
+msgid "Two-factor Authentication"
+msgstr ""
+
+msgid "Turn off two-factor authentication"
+msgstr ""
+
+msgid "Open your authenticator app."
+msgstr ""
+
+msgid ""
+"Now, enter the authentication code below and click the \"Turn off\" button."
+msgstr ""
+
+msgid "Remove two-factor account"
+msgstr "Retirer l'authentification à deux facteurs"
+
+msgid ""
+"Two-factor authentication is now turned off. It is recommended to remove the"
+" account from your authenticator app now to prevent any future issues re-"
+"enabling two-factor authentication."
+msgstr ""
+
+msgid "Play store"
+msgstr ""
+
+msgid "App store"
+msgstr "App Store"
+
+msgid "Turn on two-factor authentication"
+msgstr "Activer l'authentification à deux facteurs"
+
+msgid ""
+"Make sure you have an authenticator app installed on your device. We "
+"recommend Google Authenticator"
+msgstr ""
+
+msgid ""
+"Now, enter the code from your authenticator app below and click the \"Turn "
+"on\" button."
+msgstr ""
+
+msgid "Already set up two-factor authentication before?"
+msgstr ""
+
+msgid ""
+"If you have set up two-factor authentication for this account before, you "
+"need to remove that entry from your authenticator app before setting it up "
+"again."
+msgstr ""
+
+msgid ""
+"Two-factor authentication protects your account with an extra layer of "
+"security. With two-factor authentication turned on, you will need to enter "
+"an authentication code from your device every time you log in."
+msgstr ""
+
+msgid "Two-factor authentication is on."
+msgstr "L'authentification à deux facteurs est activée."
+
+msgid "Two-factor authentication is off."
+msgstr "L'authentification à deux facteurs est désactivée."
+
+msgid "Could not update two-factor authentication"
+msgstr ""
+
+msgid ""
+"This code does not look right. Enter the six digit code from your "
+"authentication app."
+msgstr ""
+"Ce code semble incorrect. Saisissez le code à six chiffres de votre "
+"application d'authentification."
+
+msgid "Six digit authentication code"
+msgstr "Code d'identification à six chiffres"
+
+msgid "Could not enable 2 Factor Authentication"
+msgstr ""
+
+msgid "Two factor authentication was enabled successfully"
+msgstr ""
+
+msgid "Could not disable two factor authentication"
+msgstr ""
+
+msgid "Two factor authentication was disabled successfully"
+msgstr ""
+
+msgid "Failed to upload profile picture"
+msgstr "Échec du téléchargement de la photo de profil"
+
+msgid "Profile picture"
+msgstr "Photo de profil"
+
+msgid "No profile picture available"
+msgstr "Aucune photo de profil disponible"
+
+msgid "Select profile picture"
+msgstr "Sélectionner une photo de profil"
+
+msgid "Remove profile picture"
+msgstr "Supprimer la photo de profil"
+
+msgid "This field is required"
+msgstr "Ce champs est requis"
+
+msgid "This field should be a URL"
+msgstr "Ce champ doit être une URL"
+
+msgid "This field should contain a list of URLs"
+msgstr "Ce champ doit contenir une liste d'URL"
+
+msgid "This field should be a number"
+msgstr "Ce champ doit être un nombre"
+
+msgid "This field should be a positive number"
+msgstr "Ce champ doit être un nombre positif"
+
+msgid "This field should be an email"
+msgstr "Ce champ doit être un e-mail"
+
+msgid "Please enter a valid international phone number (+0123456789)"
+msgstr ""
+"Veuillez saisir un numéro de téléphone international valide (+0123456789)"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "No value"
+msgstr "Pas de valeur"
+
+msgid "Use system default"
+msgstr "Utiliser les paramètres du système"
+
+msgid "No options"
+msgstr "Aucune option"
+
+msgid "System default"
+msgstr "Valeur par défaut du système"
+
+msgid "User profile"
+msgstr "Profil utilisateur"
+
+msgid "User settings"
+msgstr "Paramètres d'utilisateur"
+
+msgid "Account settings"
+msgstr "Paramètres de compte"
+
+msgid "Two factor authentication"
+msgstr "Authentification à deux facteurs"
+
+msgid "Full profile"
+msgstr "Profil complet"
+
+msgid "Personal access tokens"
+msgstr "Tokens d'accès personnels"
+
+msgid "About DHIS2"
+msgstr "A propos de DHIS2"
+
+msgid "Manage personal access tokens"
+msgstr "Gérer les tokens d'accès personnels"
+
+msgid "Generate new token"
+msgstr "Générer un nouveau token"
+
+msgid "Error loading personal access tokens"
+msgstr "Erreur de chargement des tokens d'accès personnels"
+
+msgid "You don't have any active personal access tokens"
+msgstr "Vous n'avez pas de tokens d'accès personnels actifs"
+
+msgid "You'll only be shown your token once"
+msgstr "Votre token ne vous sera montré qu'une seule fois"
+
+msgid ""
+"Make sure to copy your personal access token now. You won't be able to see "
+"it again"
+msgstr ""
+"Veillez à copier votre token d'accès personnel maintenant. Vous ne pourrez "
+"plus le voir"
+
+msgid "Invalid IP address '{{- ipAddress}}'"
+msgstr "Adresse IP non valide '{{- ipAddress}}'"
+
+msgid "Allowed IP addresses"
+msgstr "Adresses IP autorisées"
+
+msgid "List one IP address per line."
+msgstr "Indiquez une adresse IP par ligne."
+
+msgid "Allowed HTTP methods"
+msgstr "Méthodes HTTP autorisées"
+
+msgid "GET"
+msgstr "OBTENIR"
+
+msgid "POST"
+msgstr "POSTER"
+
+msgid "PUT"
+msgstr "METTRE"
+
+msgid "PATCH"
+msgstr "CORIGER"
+
+msgid "DELETE"
+msgstr "SUPPRIMER"
+
+msgid "Only choose the HTTP methods this token needs to allow."
+msgstr "Choisir uniquement les méthodes HTTP que ce token doit autoriser."
+
+msgid "Invalid referrer '{{- referrer}}'"
+msgstr "Référent non valide '{{- referrer}}'."
+
+msgid "Allowed referrers"
+msgstr "Référents autorisés"
+
+msgid "List one referrer per line."
+msgstr "Indiquez un référent par ligne."
+
+msgid "Error fetching your authorities"
+msgstr "Erreur de récupération de vos autorités"
+
+msgid "Retry loading authorities"
+msgstr "Réessayer le chargement des autorisations"
+
+msgid "This token will have the following authorities"
+msgstr "Ce jeton aura les autorisations suivantes"
+
+msgid ""
+"Important: this is not a security feature. The referrer header can easily be"
+" spoofed. This setting is intended to discourage unauthorised third-party "
+"developers from connecting to public access instances."
+msgstr ""
+"Important : il ne s'agit pas d'une fonction de sécurité. L'en-tête referrer "
+"peut facilement être usurpé. Ce paramètre est destiné à décourager les "
+"développeurs tiers non autorisés qui pourraient se connecter à des instances"
+" d'accès public."
+
+msgid "Choose the context where this token will be used."
+msgstr "Choisissez le contexte dans lequel ce token sera utilisé."
+
+msgid "Server/script context"
+msgstr "Contexte du serveur/script"
+
+msgid "Used for integrations and scripts that won't be accessed by a browser."
+msgstr ""
+"Utilisé pour les intégrations et les scripts qui ne seront pas accessibles à"
+" partir d'un navigateur."
+
+msgid "Browser context"
+msgstr "Contexte du navigateur"
+
+msgid ""
+"Used for applications, like public portals, that will be accessed with a web"
+" browser."
+msgstr ""
+"Utilisé pour les applications, comme les portails publics, qui seront "
+"accessibles au moyen d'un navigateur web."
+
+msgid "Token expiration date must be in the future"
+msgstr "La date d'expiration du token doit être dans le futur"
+
+msgid "7 days"
+msgstr "7 jours"
+
+msgid "30 days"
+msgstr "30 jours"
+
+msgid "60 days"
+msgstr "60 jours"
+
+msgid "90 days"
+msgstr "90 jours"
+
+msgid "Custom..."
+msgstr "Personnalisé..."
+
+msgid "The token will expire on {{- tokenExpirationDate}}."
+msgstr "Le token expire le {{- tokenExpirationDate}}."
+
+msgid "Expiration (required)"
+msgstr "Expiration (requise)"
+
+msgid "Custom expiration date (required)"
+msgstr "Date d'expiration personnalisée (requise)"
+
+msgid ""
+"Personal access tokens should only be used in a browser context for public "
+"access instances. For private instances, tokens should be treated like "
+"passwords and be kept private — requests should instead be routed through a "
+"proxy."
+msgstr ""
+"Les tokens d'accès personnels ne doivent être utilisés que dans un contexte "
+"de navigation pour les instances d'accès public. Pour les instances privées,"
+" les tokens doivent être traités comme des mots de passe et rester privés - "
+"les requêtes doivent être acheminées via un proxy."
+
+msgid "Token details"
+msgstr "Détails du token"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid ""
+"Important: IP address validation relies on the X-Forwarded-For header, which"
+" can be spoofed. For security, make sure a load balancer or reverse proxy "
+"overwrites this header."
+msgstr ""
+"Attention : la validation de l'adresse IP repose sur l'en-tête X-Forwarded-"
+"For, qui peut être usurpé. Pour des raisons de sécurité, assurez-vous qu'un "
+"équilibreur de charge ou un proxy inverse écrase cet en-tête."
+
+msgid "Are you sure you want to delete this token?"
+msgstr "Etes-vous sûr de vouloir supprimer ce token?"
+
+msgid "Error deleting token"
+msgstr "Erreur lors de la suppression du token"
+
+msgid ""
+"Any application or script using this token will no longer be able to access "
+"this instance's API. You cannot undo this action."
+msgstr ""
+"Toute application ou script utilisant ce token ne pourra plus accéder à "
+"l'API de cette instance. Vous ne pouvez pas annuler cette action."
+
+msgid "Delete token"
+msgstr "Supprimer le token"
+
+msgid "Expires"
+msgstr "Expire"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Copied token to clipboard"
+msgstr "Copie du token dans le presse-papier"
+
+msgid "Newly created token"
+msgstr "Token nouvellement créé"
+
+msgid "Copy to clipboard"
+msgstr "Copier dans le presse-papier"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Edit user profile"
+msgstr "Modifier profil utilisateur"
+
+msgid "User profile updated"
+msgstr "Profil d’utilisateur mis à jour."
+
+msgid "Failed to update user profile"
+msgstr "Echec de la mise à jour du profil utilisateur"
+
+msgid "Edit user settings"
+msgstr "Modifier paramètres utilisateur"
+
+msgid "Settings updated"
+msgstr "Paramètres mis à jour"
+
+msgid "Failed to update settings"
+msgstr "Échec de l'enregistrement des paramètres"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "Surname"
+msgstr "Nom de famille"
+
+msgid "Gender"
+msgstr "Genre"
+
+msgid "Male"
+msgstr "Masculin"
+
+msgid "Female"
+msgstr "Féminin"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "E-mail"
+msgstr "Courrier électronique"
+
+msgid "Mobile phone number"
+msgstr "Numéro de téléphone portable"
+
+msgid "Introduction"
+msgstr "Introduction"
+
+msgid "Job title"
+msgstr "Intitulé de l'emploi"
+
+msgid "User roles"
+msgstr "Rôles d'utilisateur"
+
+msgid "User org units"
+msgstr "Unités d'organisation utilisateur"
+
+msgid "Birthday"
+msgstr "Date de naissance"
+
+msgid "Nationality"
+msgstr "Nationalité"
+
+msgid "Employer"
+msgstr "Employeur"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "Interests"
+msgstr "Intérêts"
+
+msgid "Languages"
+msgstr "Langues"
+
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Account editor"
+msgstr "Editeur de comptes"
+
+msgid "Interface language"
+msgstr "Langue de l'interface"
+
+msgid "Database language"
+msgstr "Langue de la base de données"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Property to display in analysis modules"
+msgstr "Propriété à afficher dans les modules analytiques"
+
+msgid "Short name"
+msgstr "Nom court"
+
+msgid "Enable message email notifications"
+msgstr "Autoriser les notifications de messages email"
+
+msgid "Enable message SMS notifications"
+msgstr "Autoriser les notifications de messages SMS"
+
+msgid "View full profile"
+msgstr "Voir le profil complet"
+
+msgctxt "HTTP method"
+msgid "GET"
+msgstr "OBTENIR"
+
+msgctxt "HTTP method"
+msgid "POST"
+msgstr "POSTER"
+
+msgctxt "HTTP method"
+msgid "PUT"
+msgstr "METTRE"
+
+msgctxt "HTTP method"
+msgid "PATCH"
+msgstr "CORIGER"
+
+msgctxt "HTTP method"
+msgid "DELETE"
+msgstr "SUPPRIMER"
